@@ -6,10 +6,10 @@ Media pembelajaran berbasis game yang dikembangkan untuk membantu siswa mempelaj
 
 Project ini bertujuan untuk memberikan pengalaman belajar pemrograman yang lebih menarik melalui pendekatan **Game-Based Learning**
 
-- 📚 **Materi Pembelajaran** — Materi mengenai percabangan dan perulangan.
-- 📝 **Latihan Soal** — Latihan untuk menguji pemahaman siswa.
-- 💻 **Coding Practice** — Tempat siswa mencoba dan menjalankan kode.
-- 🏆 **Leaderboard** — Menampilkan skor dan pencapaian siswa.
+- 📚 **Materi Pembelajaran** - Materi mengenai percabangan dan perulangan.
+- 📝 **Latihan Soal** - Latihan untuk menguji pemahaman siswa.
+- 💻 **Coding Practice** - Tempat siswa mencoba dan menjalankan kode.
+- 🏆 **Leaderboard** - Menampilkan skor dan pencapaian siswa.
 
 ## 🛠️ Teknologi
 
